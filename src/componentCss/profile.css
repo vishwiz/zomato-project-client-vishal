@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Metamorphous" rel="stylesheet');
+.profile {
+  background: url("../assets/card-back.jpg");
+  width: 1200px;
+  height: auto;
+  margin: 0px auto;
+  padding: 10px 43px 80px 21px;
+  border-radius: 5px;
+  color: black;
+  font-family: "Metamorphous", cursive;
+}
+.profile-background {
+  background: url("../assets/back.jpg");
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 4px 8px 3px rgba(75, 21, 21, 0.541);
+}
+.profile-header {
+  padding-top: 14px;
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: 900;
+  letter-spacing: 8px;
+  color: white;
+}
+
+.profile-data {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+.profile-data img {
+  width: 55%;
+  padding: 18px 0px 19px 19px;
+
+}
+.MuiButton-outlinedSecondary-12 {
+  color: #121011 !important;
+  border: 6px solid #413F3F !important;
+}
+.profile-details form {
+  border: 15px solid black;
+  margin-top: 31px;
+  margin-right: 75px;
+  margin-bottom: 15px;
+  border-radius: 5px; 
+}
+.label-data > label {
+  padding-top: 8px;
+  font-size: 2em;
+}
+.label-data {
+  display: flex;
+  text-align: left;
+}
+.label-data h1 {
+  padding-left: 12px;
+}

@@ -1,0 +1,13 @@
+.book-rating{
+    display: flex;
+    justify-content: space-between
+}
+.star-rating{
+    /* background: red; */
+    width:100%;
+    /* padding-left: 216px; */
+}
+.star-rating h3{
+     width:23%;
+     border-radius:3px;
+ } 

@@ -1,0 +1,12 @@
+.book-Table-button{
+    float:right;
+}
+.book-Table-button button{
+    border-color: lightgrey;
+    border-radius: 5px;
+    font-size: 18px;
+    background: none;
+    width: 118%;
+    padding: 4px;
+    outline: none;;
+}

@@ -1,0 +1,12 @@
+.sign-in-header:hover .sign-out-header {
+  display: block;
+}
+.sign-out-header {
+  display: none;
+  margin-left: 197px;
+  margin-top: -17px;
+  width: 8em;
+  height: 31px;
+  border-radius: 4px;
+  outline: none;
+}

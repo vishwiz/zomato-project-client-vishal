@@ -1,0 +1,39 @@
+.booking{
+    background: url('../assets/card-back.jpg');
+    width:1200px;
+    height: auto;
+    margin:0px auto;
+    padding: 1px 43px 10px 21px;
+    border-radius:5px;
+    margin-bottom:15px;
+}
+
+.booking-header{
+    text-align:center;
+    font-size:2.5em;
+    letter-spacing: 5px;
+}
+.booking-details{
+    background: url("../assets/back.jpg");
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 4px 8px 3px rgba(75, 21, 21, 0.541);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap:10px;
+    padding: 8px;
+    margin-top: 19px;
+    color:black
+}
+
+.restaurants-image img{ 
+    width:84%;
+    height: 200px;
+    border-radius:10px;
+}
+
+.booking-info{
+    padding-top: 30px;
+    padding-left:5px;
+}

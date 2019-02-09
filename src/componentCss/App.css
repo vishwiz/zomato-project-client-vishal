@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Metamorphous" rel="stylesheet');
+
+.header {
+  display: grid;
+  grid-template-columns:  2% 72% 35%;;
+  text-align: center;
+  font-family: "Metamorphous", cursive;
+  background: 	rgb(152, 121, 81);
+  top: 0;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+  height: 68px;
+  color: white;
+  letter-spacing: 5px;
+}
+.header h1{
+  margin-top: 18px;
+  margin-left: 284px;
+}
+
+.trending-restaurants-cards {
+  background: url("../assets/card-back.jpg");
+  border-radius: 4px;
+}
+.trending-restaurants {
+  width: 1200px;
+  margin: 0px auto;
+  margin-top: -8px;
+}
+.slider {
+  height: 370px !important;
+}
+.trending {
+  width: 1150px;
+  margin: 0px auto;
+  padding-bottom: 12px;
+  margin-bottom: 1em;
+}
+.trending-h1 {
+  letter-spacing: 5px;
+  text-indent: 5px;
+  color: white;
+  font-size: 22px;
+  padding-top: 13px;
+}
+.section {
+  margin-top: 80px;
+  color: white;
+}
+.menu-button{ 
+  /* color:white; */
+   margin-top: 15px;
+} 

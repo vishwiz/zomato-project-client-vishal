@@ -1,0 +1,26 @@
+.restaurants{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 15px; 
+    /* margin-left: 6px; */
+}
+.carousel-fixed{
+    position: absolute;
+    margin-top: -288px;
+  }
+  .carousel-fixed input{
+    width: 171%;
+    margin-left: 220px;
+    height: 3em;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background: #201b1b;
+    color: white;
+    text-indent: 27px;
+    opacity: 0.89;
+    font-weight: 900
+  }
+.not-found-error{
+  color:white;
+}
